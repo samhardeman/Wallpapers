@@ -14,7 +14,7 @@ This sounds smart so I'll put it in here.
 My desktop has to look *pristine* so I don't leave my recycle bin or any shortcuts there. I also use TaskbarX to make my taskbar centered and transparent. It's a super clean and minimalist look but it would be nothing without a cast of fantastic wallpapers. Unsplash has been my go-to website for awesome wallpapers. I love nature so that's the focus of 99% of my wallpapers, stretching landscapes, beaches, rock formations, as well as a few close up shots of flowers and an occasional cityscape thrown in there to mix it up. I have so many wallpapers because I rotate them every 30 minutes.
 
 ## ✨ For Best Results
-- Get TaskbarX, it's fantastic and works really well. [Download TaskbarX](https://chrisandriessen.nl/taskbarx)
+- Get TaskbarX, it makes your taskbar transparent and centers the icons. It's fantastic and works really well. [Download TaskbarX](https://chrisandriessen.nl/taskbarx)
 - You can hide your recycling bin like they do in this [Techjunkie Article](https://www.techjunkie.com/remove-recycle-bin-from-windows-10-desktop)
 - Rotate the wallpapers so you don't get bored by going to Settings > Personalization > Background > Slideshow. Then choose an album for your slideshow which will be wherever you put the wallpapers you want to rotate. I turn Shuffle "On" and for "Choose a fit," I pick Center.
 - Automatically pick an accent color from my background. I really like this setting but Windows selects yellow-brown accent colors for some of the wallpapers so if that's your kryptonite, don't opt for this setting. I personally don't mind it so I have it on. 
